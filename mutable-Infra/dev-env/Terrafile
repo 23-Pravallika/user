@@ -1,0 +1,5 @@
+#Terrafile is a binary written in Go to systematically manage external modules from Github for use in Terraform
+app:
+    source: "https://github.com/23-Pravallika/tf-mutable-app.git"
+    version: "main"
+
